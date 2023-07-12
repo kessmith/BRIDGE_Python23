@@ -51,3 +51,4 @@ miles_calc = user_miles_driven/60 # Assumes the speed limit is 60 miles per hour
 
 print('I would be driving ' + str(user_miles_driven) + ' miles')
 print(miles_calc, 'hours to drive')
+
