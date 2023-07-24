@@ -77,4 +77,4 @@ print('The volume of the cylinder is: ', volume)
 Question #5: Bonus Question
 Create a python program, that randomly determines my chances of winning a chess match between 0 and 100 and prints the value out
 '''
-print(f'My chances of winning a chess match is at {random.randint(0, 100)}%')
+print(f'My chances of winning a chess match are at {random.randint(0, 100)}%')
