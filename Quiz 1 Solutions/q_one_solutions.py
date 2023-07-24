@@ -59,7 +59,7 @@ print("A's value is: ", a)
 b = random.randint(10, 15)
 print("B's value is: ", b)
 
-c_squared = a**2 * b**2
+c_squared = a**2 + b**2
 print("c^2 is:", c_squared)
 c = math.sqrt(c_squared)
 print("C's value is: ", c)
